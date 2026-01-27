@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.lmdb
+*.bvh
+*.npy
+checkpoints/
+src/data/lmdb_processed/
+.DS_Store
